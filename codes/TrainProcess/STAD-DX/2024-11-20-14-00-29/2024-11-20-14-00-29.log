@@ -1,0 +1,10 @@
+[2024-11-20 14:00:29,818][INFO] Running PROJECT: STAD-DX, P LEARNING RATE: 0.001, OPTIMIZER: ADAMW, NUM EPOCHS: 15, BATCH SIZE: 2048, DEVICES: cuda, SMOOTHING: 0.1
+[2024-11-20 14:00:29,818][INFO] params["in_chans"]=[200, 16]
+[2024-11-20 14:00:29,818][INFO] params["dims"]=[512, 512]
+[2024-11-20 14:00:29,818][INFO] params["out_chans"]=[16, 8]
+[2024-11-20 14:00:29,819][INFO] params["heads"]=[8, 4]
+[2024-11-20 14:00:29,819][INFO] params["dropout"]=[0.8, 0.4, 0.4]
+[2024-11-20 14:02:21,075][INFO] Epoch[1/15], loss:1.6960, CE loss:1.6960
+[2024-11-20 14:02:21,075][INFO] Epoch[1/15], train B-acc: 0.5000(0.5000-0.5000), test B-acc: 0.5000(0.5000-0.5000)
+[2024-11-20 14:02:21,076][INFO] Epoch[1/15], train weighted-f1: 0.7261(0.6447-0.8022), test weighted-f1: 0.6395(0.5204-0.7505)
+[2024-11-20 14:02:21,076][INFO] Epoch[1/15], train AUC: 0.7834(0.6868-0.8686), test AUC: 0.6977(0.5539-0.8202)

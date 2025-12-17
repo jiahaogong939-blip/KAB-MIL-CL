@@ -1,0 +1,6 @@
+[2025-01-23 08:19:22,332][INFO] Running PROJECT: CRC-KR, P LEARNING RATE: 0.001, OPTIMIZER: ADAMW, NUM EPOCHS: 30, BATCH SIZE: 2048, DEVICES: cuda, SMOOTHING: 0.25
+[2025-01-23 08:19:22,332][INFO] params["in_chans"]=[200, 16]
+[2025-01-23 08:19:22,333][INFO] params["dims"]=[512, 512]
+[2025-01-23 08:19:22,333][INFO] params["out_chans"]=[16, 8]
+[2025-01-23 08:19:22,333][INFO] params["heads"]=[8, 4]
+[2025-01-23 08:19:22,333][INFO] params["dropout"]=[0.8, 0.4, 0.4]

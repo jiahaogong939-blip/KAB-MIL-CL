@@ -1,0 +1,9 @@
+[2024-12-22 17:37:00,694][INFO] Running PROJECT: CRC-DX, P LEARNING RATE: 0.001, OPTIMIZER: ADAMW, NUM EPOCHS: 15, BATCH SIZE: 2048, DEVICES: cuda, SMOOTHING: 0.1
+[2024-12-22 17:37:00,695][INFO] params["in_chans"]=[200, 16]
+[2024-12-22 17:37:00,695][INFO] params["dims"]=[512, 512]
+[2024-12-22 17:37:00,695][INFO] params["out_chans"]=[16, 8]
+[2024-12-22 17:37:00,695][INFO] params["heads"]=[8, 4]
+[2024-12-22 17:37:00,695][INFO] params["dropout"]=[0.8, 0.4, 0.4]
+[2024-12-22 17:38:47,118][INFO] Epoch[1/15], loss:1.5302, CE loss:0.8597 , info NCE loss:7.5648
+[2024-12-22 17:38:47,119][INFO] Epoch[1/15], train B-acc: 0.5000(0.5000-0.5000), test B-acc: 0.5000(0.5000-0.5000)
+[2024-12-22 17:38:47,119][INFO] Epoch[1/15], train AUC: 0.7307(0.6328-0.8213), test AUC: 0.6445(0.4924-0.7785)

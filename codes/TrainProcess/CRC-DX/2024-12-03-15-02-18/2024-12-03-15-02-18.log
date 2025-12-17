@@ -1,0 +1,6 @@
+[2024-12-03 15:02:19,102][INFO] Running PROJECT: CRC-DX, P LEARNING RATE: 0.001, OPTIMIZER: ADAMW, NUM EPOCHS: 15, BATCH SIZE: 64, DEVICES: cuda, SMOOTHING: 0.03
+[2024-12-03 15:02:19,102][INFO] params["in_chans"]=[200, 16]
+[2024-12-03 15:02:19,102][INFO] params["dims"]=[512, 512]
+[2024-12-03 15:02:19,102][INFO] params["out_chans"]=[16, 8]
+[2024-12-03 15:02:19,103][INFO] params["heads"]=[8, 4]
+[2024-12-03 15:02:19,103][INFO] params["dropout"]=[0.8, 0.4, 0.4]
