@@ -8,7 +8,7 @@
 
 ###  1. Environment & Core Dependencies
 - **Python**: 3.8
-- **PyTorch**: **>=1.10.0** (Critical: `label_smoothing` in `nn.CrossEntropyLoss` is available from v1.10)
+- **PyTorch**: **1.18.0** 
 - **CUDA**: **12.1** 
 - **GPU**: **NVIDIA GeForce RTX 5090** 
 # Main Python Packages:
